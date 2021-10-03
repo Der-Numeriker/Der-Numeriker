@@ -7,6 +7,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ikhlaq-ahmad-45551895/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ikhlaq.ahmad@gmail.com)
 
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 **Skills:**  
 Proficient in Python libraries for Data Science:  Pandas, Numpy, Scipy, matplotlib,  Seaborn
 
