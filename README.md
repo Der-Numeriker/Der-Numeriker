@@ -1,5 +1,13 @@
-- 👋 Hi, I’m Ikhlaq Ahmad, a Control Systems Engineer and PLC Progrommer for CNC control. Enthusiastic learner of Data Science and inspiring career changer to Machine Learning Engineer  and Artificial Intelligence.
+- 👋 Hello Dear Reader !  I’m Ikhlaq Ahmad, a Control Systems Engineer and PLC Progrommer for CNC control. Enthusiastic learner of Data Science and inspiring career changer to Machine Learning Engineer  and Artificial Intelligence.
 - 👀 I’m interested in Machine Learning / Artificial Intelligence (Deep Learning)
-- 🌱 I’m currently learning Machine Learnings Frameworks (SciKit-Learning, Keras, TensorFlow, Pytorch) and already Proficient in Python libraries i.e Pandas, Numpy, Scipy,matplotlib Seaborn
-- 💞️ I’m looking to collaborate on Machine Learning Engineer (Deep Learning) projects with someone who can mentor me in Data Science Engineering. 
-- 📫 How to reach me Der-Numeriker    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Der-Numeriker )  
+- 🌱 I’m currently learning Machine Learnings Frameworks (SciKit-Learning, Keras, TensorFlow, Pytorch)
+- 💞️ I’m looking to collaborate on Machine Learning Engineer (Deep Learning) projects with someone who can mentor me in Data Science Engineering.  
+- 📫 How to reach me:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Der-Numeriker/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ikhlaq-ahmad/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ikhlaq.ahmad@gmail.com)
+
+**Skills:**  
+Proficient in Python libraries for Data Science:  Pandas, Numpy, Scipy, matplotlib,  Seaborn
+
+**Machine Learning framework:**  SciKit-Learning
