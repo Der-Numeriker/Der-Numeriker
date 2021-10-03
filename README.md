@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ikhlaq Ahmad, qualified Control Systems Engineer, --> Enthusiastic learner of Data Science and inspiring career changer -->   Machine Learning Engineer  and Artificial Intelligence
+- 👋 Hi, I’m Ikhlaq Ahmad, qualified Control Systems Engineer --> Enthusiastic learner of Data Science and inspiring career changer -->   Machine Learning Engineer  and Artificial Intelligence
 - 👀 I’m interested in Machine Learning Engineer/ AI (Deep Learning)
 - 🌱 I’m currently learning Machine Learnings Frameworks (SciKit-Learning, Keras, TensorFlow, Pytorch)
-- 💞️ I’m looking to collaborate on Machine Learning Engineer (Deep Learning)
+- 💞️ I’m looking to collaborate on Machine Learning Engineer (Deep Learning) projects with someone who can mentor me in Data Science Engineering. 
 - 📫 How to reach me ...
 
 <!---
